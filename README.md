@@ -62,15 +62,12 @@ Label messages with sequence numbers and direction arrows.
 ![ClassDiagram1](https://github.com/user-attachments/assets/957ef7db-ae0f-4b01-b8ac-52ca06b852eb)
 
 # Activity Diagram
-
 ![ActivityDiagram1](https://github.com/user-attachments/assets/be7a4f3a-c12e-4249-930b-3797971a75cf)
 
 # Communication Diagram
-
 ![CommunicationDiagram1](https://github.com/user-attachments/assets/916fb461-219e-4ca0-84ba-7864f22a984d)
 
 # Package Diagram
-
 ![PackageDiagram1](https://github.com/user-attachments/assets/18180400-3eca-493f-89a3-4ef6de0c8fd3)
 
 # Sequence Diagram
